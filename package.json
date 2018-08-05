@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-console-app",
+  "version": "0.0.0",
+  "description": "NodejsConsoleApp",
+  "main": "app.js",
+  "author": {
+    "name": "pvo"
+  },
+  "dependencies": {
+    "express": "^4.16.3",
+    "joi": "^13.5.2"
+  }
+}
